@@ -10,10 +10,13 @@ public class Player : MonoBehaviour
     private Animator Anim;
     private Vector2 MoveInput;
     private Vector2 MoveVelocity;
-
+    public GameObject HealthHolder;
+    private int HealthContainer = 3;
+    private int Health = 6;
 
     void Start()
     {
+        HealthHolder.GetComponent<HealthHolder>().InitializeHP(HealthContainer, Health);
         RB = GetComponent<Rigidbody2D>();
         Anim = GetComponent<Animator>();
         Anim.SetFloat("LastX", 1);
