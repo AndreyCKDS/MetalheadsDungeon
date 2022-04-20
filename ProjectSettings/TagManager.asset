@@ -7,6 +7,8 @@ TagManager:
   - Coins
   - Enemy
   - Missiles
+  - SpawnPoint
+  - Rooms
   layers:
   - Default
   - TransparentFX
