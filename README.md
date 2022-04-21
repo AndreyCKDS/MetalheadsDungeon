@@ -18,10 +18,7 @@ The system of a random dungeon generation was choosen in order to achieve a repl
 The combat system and the design of enemies force a player to dodge a plenty of enemies' individually created missiles with a specific traectrory. The player's main goal is to defeat them by precise aiming and efficient using of his deadly arsenal wich consists of the multiple weapons, active skills and combos.
 
 - <b>Rythmgame</b>  
-One of the main features of the game is that all of the actions and activities that take place in the game are syncronized with the same tempo (like in Crypt of the NecroDancer). This allows a very cool sound design concept, according to which all sound effects of a player, enemies and NPCs generate general melody. This rythmgame implementation also gives opportunity to make combo system, so that you need to press keys in specific order and timing to get a certain attack. 
+One of the main features of the game is that all of the actions and activities that take place in the game are syncronized with the same tempo (like in Crypt of the NecroDancer). This allows a very cool sound design concept, according to which all sound effects of a player, enemies and NPCs generate general melody. This rythm game implementation also gives opportunity to make combo system, so that you need to press keys in specific order and timing to get a certain attack. 
 
 ### Design
-The design of NPCs, enemies, items and enviroment is a combination of classic fantazy style and Rock culture. In the game you can find a lot of references to different bands and rockstars and their work. The soundtrack is also inspired by different styles of rock music.
-
-## Some game assets:
-
+The design of NPCs, enemies, items and environment is a combination of classic fantasy style and Rock culture. In the game you can find a lot of references to different bands and rock stars and their work. The soundtrack is also inspired by different styles of rock music.
